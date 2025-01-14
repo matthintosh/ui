@@ -5,6 +5,7 @@
 ### Minor Changes
 
 - [#6339](https://github.com/shadcn-ui/ui/pull/6339) [`254198b`](https://github.com/shadcn-ui/ui/commit/254198b4bf38ca18361dbcf4373536c55ea8ef11) Thanks [@shadcn](https://github.com/shadcn)! - add schema
+- [#6350](https://github.com/shadcn-ui/ui/pull/6350) [`cb742e9`](https://github.com/shadcn-ui/ui/commit/cb742e98252fe8aa5cad3377d06e1d8a884953db) Thanks [@shadcn](https://github.com/shadcn)! - add new build command
 
 ## 2.1.8
 
