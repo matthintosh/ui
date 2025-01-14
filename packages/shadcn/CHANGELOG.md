@@ -1,5 +1,11 @@
 # @shadcn/ui
 
+## 2.2.0
+
+### Minor Changes
+
+- [#6339](https://github.com/shadcn-ui/ui/pull/6339) [`254198b`](https://github.com/shadcn-ui/ui/commit/254198b4bf38ca18361dbcf4373536c55ea8ef11) Thanks [@shadcn](https://github.com/shadcn)! - add schema
+
 ## 2.1.8
 
 ### Patch Changes
